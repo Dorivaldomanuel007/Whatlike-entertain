@@ -1,2 +1,2 @@
 # Whatlike entertain
- Designer repositorio
+ repositorio do departamento Designer
